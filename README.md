@@ -6,7 +6,7 @@
 
 ## Description
 
-A simple TUI application to search for movies and series, and download them. It uses the [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction) to facilitate autocompletion while searching for movies and series.
+A simple TUI application to search for movies and series, and download them. It uses the [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction) to facilitate autocompletion while searching for movies and series. <span style="color:red">The program now requires a VPN to function because the site it uses has been blocked.</span>
 
 ## Installation
 
